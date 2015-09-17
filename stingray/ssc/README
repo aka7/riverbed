@@ -1,5 +1,5 @@
 # SSC - Stingray Services Controller
-# Set of python scripts to query ssc, stingray license controller, used for FLA
+# Set of python scripts to query ssc, stingray services controller, used for FLA
 #
 # SET SSC ADMIN password, in file called ~/.sscrc
 # add sscadmin user password, with colon as delimeter.
