@@ -1,4 +1,4 @@
-# riverbed helpful scripts
+# riverbed stringray TM helpful scripts
 
 Few scripts I used when I was working with stringray traffic managers and flixbale license controller. SSC.
 
