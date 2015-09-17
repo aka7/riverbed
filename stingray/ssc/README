@@ -1,0 +1,16 @@
+# Set of python scripts to query ssc, stingray license controller, used for FLA
+#
+# SET SSC ADMIN password, in file called ~/.sscrc
+# add sscadmin user password, with colon as delimeter.
+# i.e.
+# echo "sscadmin:<sscadminpassword>" >> ~/.sscrc
+#
+# or it will prompt for sscadmin password everytime you run the script.
+
+# some example of querying current stm instances
+#
+# python instance_resource.py -s
+# python instance_resource.py -q /api/tmcm/1.0/instance/<instance_name>
+# 
+####
+
